@@ -15,5 +15,6 @@ public:
             }
             hashtable[nums[i]] = i;
         }
+	return vector<int>();
     }
 };
