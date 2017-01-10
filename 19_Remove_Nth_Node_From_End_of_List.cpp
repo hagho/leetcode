@@ -42,7 +42,6 @@ public:
         return  pointers[0];
     }
 */ 
-
         ListNode* newhead = new ListNode(-1);
         newhead->next = head;
         ListNode* pointer1 = newhead;
