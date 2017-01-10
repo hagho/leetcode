@@ -58,7 +58,6 @@ public:
     }
 };
 
-
 int main() {
     ListNode* test = new ListNode(1);
     ListNode* a = test;
