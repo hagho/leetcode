@@ -49,14 +49,13 @@ public:
         ListNode* pointer2 = newhead;
         while (pointer1 != NULL) {
             pointer1 = pointer1->next;
-            if(n-- < 0) {
+            if (n-- < 0) {
                 pointer2 = pointer2->next;
             }
         }
         pointer2->next = pointer2->next->next;
         return newhead->next;
     }
-
 };
 
 
@@ -65,9 +64,9 @@ int main() {
     ListNode* a = test;
     a->next = new ListNode(2);
     Solution S;
-    //cout << "ffffff";
-    ListNode* res = S.removeNthFromEnd(test,2);
-    while(res != NULL) {
+    // cout << "ffffff"
+    ListNode* res = S.removeNthFromEnd(test, 2);
+    while (res != NULL) {
         std::cout << res->val << " ";
         res = res->next;
     }
