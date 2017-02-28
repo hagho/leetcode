@@ -31,7 +31,7 @@ public:
                 p2++;
             }
         }
-        int p3 =nums3.size();
+        int p3 = nums3.size();
         return ( nums3[p3 - 1] + nums3[p3 - 1 - flag] ) / 2.0;
     }
 };
