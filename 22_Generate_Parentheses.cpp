@@ -1,7 +1,11 @@
+#include <vector>
+#include <string>
+using namespace std;
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
         vector<string> p[n + 1];
+        //以下初始方法只适用于C++11后
         p[0] = vector<string>{""};
         p[1] = vector<string>{"()"};
         for (int i = 2; i <= n; i++) {
