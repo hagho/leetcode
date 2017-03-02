@@ -5,7 +5,7 @@ leetcode代码
 ---
 
 ###双指针问题
-[11. Container With Most Water[M]](https://leetcode.com/problems/container-with-most-water/?tab=Description)
+[11. Container With Most Water[M]](https://leetcode.com/problems/container-with-most-water/?tab=Description)<br/>
 
 ---
 
@@ -18,8 +18,8 @@ leetcode代码
 ---
 
 ###二分查找
-(374. Guess Number Higher or Lower[E])[https://leetcode.com/problems/guess-number-higher-or-lower/?tab=Description]
-(33. Search in Rotated Sorted Array[M])[https://leetcode.com/problems/search-in-rotated-sorted-array/?tab=Description]
+[374. Guess Number Higher or Lower[E]](https://leetcode.com/problems/guess-number-higher-or-lower/?tab=Description)<br/>
+[33. Search in Rotated Sorted Array[M]](https://leetcode.com/problems/search-in-rotated-sorted-array/?tab=Description])<br/>
 ---
 
 ###递归回溯
@@ -33,6 +33,6 @@ leetcode代码
 ###动态规划
 
 [10. Regular Expression Matching[H]](https://leetcode.com/problems/regular-expression-matching/?tab=Description)<br/>
-[120. Triangle[M]](https://leetcode.com/problems/triangle/?tab=Description)
+[120. Triangle[M]](https://leetcode.com/problems/triangle/?tab=Description)<br/>
 
 
