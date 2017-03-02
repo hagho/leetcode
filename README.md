@@ -18,7 +18,8 @@ leetcode代码
 ---
 
 ###二分查找
-
+(374. Guess Number Higher or Lower[E])[https://leetcode.com/problems/guess-number-higher-or-lower/?tab=Description]
+(33. Search in Rotated Sorted Array[M])[https://leetcode.com/problems/search-in-rotated-sorted-array/?tab=Description]
 ---
 
 ###递归回溯
