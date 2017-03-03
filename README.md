@@ -14,6 +14,9 @@ leetcode代码
 ---
 
 ###链表
+合并链表<br/>
+[21. Merge Two Sorted Lists[E]](https://leetcode.com/problems/merge-two-sorted-lists/?tab=Description)<br/>
+[23. Merge k Sorted Lists[H]](https://leetcode.com/problems/merge-k-sorted-lists/?tab=Description)<br/>
 
 ---
 
