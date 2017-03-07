@@ -15,7 +15,6 @@ private:
         while (temp != i) {
             if (nums[temp] > n) {
                 return nums[temp];
-
             } else {
                 temp++;
                 if(temp == nums.size()){
