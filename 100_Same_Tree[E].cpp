@@ -13,7 +13,7 @@ public:
         if (p == NULL && q == NULL) {
             return true;
         } else if (( P == NULL && q !=NULL ) || ( p != NULL && q == NULL )) { 
-            return false;
+            return false
         }
         if (p->val != q->val) {
             return false;
